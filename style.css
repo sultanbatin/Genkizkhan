@@ -1,3 +1,9 @@
+h1 {
+	font-size: 50px;
+	font-family: Impact;
+	background-colour: black;
+	color: yellow;
+}
 body {
 	font-family: arial;
 	width: 80%;
