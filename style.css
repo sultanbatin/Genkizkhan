@@ -1,0 +1,18 @@
+body {
+	font-family: arial;
+	width: 80%;
+	margin: 0 auto;
+	background: #dcdcdc;
+	text-align: center;
+}
+
+.rotate {
+	transform: rotate(90deg);
+	
+}
+footer {
+	background: #e45dec;
+	padding: 0px 0px;
+	width: 100px;
+	position: absolute;
+	text-align: center;
