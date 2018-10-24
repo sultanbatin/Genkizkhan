@@ -11,7 +11,9 @@ body {
 	background: red;
 	text-align: center;
 }
-
+ul {
+	font-size: 21px;
+}
 .rotate {
 	transform: rotate(180deg);
 	
